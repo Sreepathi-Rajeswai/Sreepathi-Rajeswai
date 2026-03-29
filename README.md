@@ -1,86 +1,44 @@
-# Hi 👋, I'm Rajeswari Sreepathi  
+# Hi, I'm Rajeswari Sreepathi 👋
 
-### Data Engineer | Python Developer | ETL & Data Pipeline Enthusiast  
+**Data Engineer** · Python · PySpark · Apache Kafka · AWS
 
-
----
-
-## 👩🏻‍💻 About Me  
-
-💼 Software Engineer with 2.5+ years of experience in building scalable data processing systems in the automotive domain.  
-
-📊 Specialized in ETL pipelines, large-scale data processing (up to 60GB), and event-driven architectures.  
-
-☁️ Experienced in developing and deploying data solutions using Python and AWS.  
-
-⚙️ Skilled in transforming raw data into structured formats for analytics and downstream applications.  
-
-🚀 Passionate about building efficient, production-ready data pipelines and scalable backend systems.  
-
+![Experience](https://img.shields.io/badge/Experience-2.5%2B%20years-1A7A6E?style=flat-square) ![ETL](https://img.shields.io/badge/ETL%20efficiency%20gain-40%25-1A7A6E?style=flat-square) ![Data](https://img.shields.io/badge/Data%20processed-60%20GB-1A7A6E?style=flat-square)
 
 ---
 
-## 🛠 Tech Stack  
+## About me
 
-### 💻 Programming Languages  
-- Python  
-- Java  
-- C  
+Data Engineer at KPIT Technologies building production-grade ETL pipelines and real-time streaming systems for automotive ADAS and vehicle telemetry data.
 
-### 📊 Data Engineering  
-- ETL Pipelines  
-- Data Processing & Transformation  
-- Data Modeling  
-- Large-scale Data Handling  
+I designed ETL workflows that cut processing time by **40%** and architected a Kafka + PySpark streaming pipeline processing high-volume sensor data for sub-second analytics — all deployed on AWS.
 
-### ⚙️ Data Tools & Libraries  
-- Pandas  
-- NumPy  
-- Protobuf  
-- PyYAML  
-
-### 🌐 Backend & APIs  
-- Flask  
-- FastAPI  
-- Django  
-- REST APIs  
-
-### ☁️ Cloud & DevOps  
-- AWS (S3, EC2, ECS, Lambda, SQS, DynamoDB, Elastic Beanstalk)  
-- Docker  
-- CI/CD  
-- Git & GitHub  
-
-### 🗄 Databases  
-- PostgreSQL  
-- SQL  
-
-### 🔧 Tools  
-- Git  
-- JIRA  
-- Confluence  
-- Postman  
-
+Currently open to Data Engineer roles at mid-size tech companies.
 
 ---
 
-## 🚀 Areas of Interest  
-- Data Engineering & Pipeline Design  
-- Scalable Data Processing Systems  
-- Cloud-based Data Architectures  
-- Distributed Data Systems  
+## Tech stack
 
+**Languages:** Python · Java
 
----
+**Data engineering:** PySpark · Apache Kafka · ETL Pipelines · Data Modeling · Pandas · NumPy
 
-## 📫 Connect with Me  
+**Cloud (AWS):** S3 · Lambda · ECS · SQS · Glue · Athena · EC2
 
-📧 Email: sreepathirajeswari85@gmail.com  
-📱 Phone: +91 9390473343  
-💼 LinkedIn: https://www.linkedin.com/in/sreepathi-rajeswari-4700a8237  
-💻 GitHub: https://github.com/Sreepathi-Rajeswai  
-
+**Databases & tools:** PostgreSQL · SQL . Docker · Git · JIRA · Confluence
 
 ---
 
-⭐️ Building scalable data systems and transforming raw data into meaningful insights.
+## Pinned projects
+
+- **Real-Time Streaming Pipeline** — Kafka + PySpark + S3 data lake for high-volume ADAS sensor data
+- **Cloud ETL Pipeline** — Event-driven ETL on AWS Lambda, ECS, SQS for automated data ingestion
+- **Android Malware Detector** — SVM + CNN ML pipeline for classifying malicious Android apps
+
+---
+
+## Connect
+
+📞 +91 9390473343
+📧 sreepathirajeswari85@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/sreepathi-rajeswari-4700a8237)
+🐙 [GitHub](https://github.com/Sreepathi-Rajeswai)
