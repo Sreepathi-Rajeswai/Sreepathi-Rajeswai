@@ -6,15 +6,17 @@
 
 ---
 
-## About me
+## About Me
 
-Data Engineer at KPIT Technologies building production-grade ETL pipelines and real-time streaming systems for automotive ADAS and vehicle telemetry data.
+Data Engineer at **KPIT Technologies** building **production-grade Python ETL pipelines** and cloud-native data processing systems for automotive telemetry, CAN signals, and multimodal vehicle datasets.
 
-I designed ETL workflows that cut processing time by **40%** and architected a Kafka + PySpark streaming pipeline processing high-volume sensor data for sub-second analytics — all deployed on AWS.
+I design scalable workflows that process **MF4, BLF, AVI, and MP4 data**, transforming raw sensor logs and synchronized video streams into **structured MCAP outputs** for replay, analytics, and downstream ADAS workflows.
 
-I enjoy working at the intersection of large-scale data infrastructure and cloud-native architecture, turning raw, messy data into reliable systems that teams can build on.
+I have built **event-driven AWS data pipelines** using **S3, SQS, Lambda, ECS, Glue, Athena, and Redshift**, enabling reliable large-scale batch processing and production-grade cloud deployments.
 
-Currently open to Data Engineer roles at mid-size tech companies.
+My work improved ETL pipeline throughput by **30–40%** using multiprocessing, optimized Pandas/NumPy transformations, chunk-based execution, and memory-efficient large-file processing.
+
+I enjoy working at the intersection of **data engineering, cloud orchestration, and automotive data systems**, turning complex raw telemetry and video data into scalable platforms teams can build on.
 
 ---
 
@@ -31,45 +33,38 @@ Currently open to Data Engineer roles at mid-size tech companies.
 
 ## Tech stack
 
-**Languages:** Python · SQL · Java
+**Languages:** Python
 
 **Data engineering:** PySpark · Apache Kafka · ETL Pipelines · Data Modeling · Data Lakes · Pandas · NumPy
 
-**Cloud (AWS):** S3 · Lambda · ECS · SQS · Glue · Athena · EC2
+**Cloud (AWS):** S3 · Lambda · ECS · SQS · Glue · Athena · EC2 . Redshift. Dynamodb
 
-**Databases & tools:** PostgreSQL · Docker · Git · JIRA · Confluence
+**Databases & tools:** PostgreSQL · SQL . Docker · Git · JIRA · Confluence
 
 ---
 
 ## Featured projects
 
-### 🔴 Real-Time Streaming Pipeline
-> Kafka · PySpark · AWS S3
+### Python ETL Pipeline for Automotive Data Conversion | Python
 
-End-to-end streaming system ingesting high-volume ADAS sensor data via Kafka, transforming it with PySpark Streaming, and storing results in an S3 data lake for analytics.
-- Fault-tolerant distributed architecture
-- Real-time aggregation and filtering
-- Scalable message-based ingestion
+• Built a Python ETL pipeline to process MF4, BLF, AVI, and MP4 datasets.
+• Extracted CAN signals, timestamps, telemetry logs, and video metadata from raw files.
+• Transformed data using Pandas, NumPy, multiprocessing, timestamp alignment, and schema normalization.
+• Loaded processed outputs into MCAP format for replay and analytics systems.
 
----
+### AWS Cloud ETL Orchestration Pipeline | AWS
 
-### ☁️ Cloud ETL Pipeline
-> Python · AWS Lambda · ECS · SQS · S3
+• Designed cloud-native ETL orchestration using S3, SQS, Lambda, Glue, Athena, and Redshift.
+• Uploaded raw datasets into S3 and triggered SQS-based asynchronous processing workflows.
+• Used Lambda to validate files, prepare metadata, and trigger downstream ETL execution.
+• Enabled analytics-ready datasets and SQL querying through Athena and Redshift.
 
-Fully automated, event-driven ETL pipeline on AWS — eliminating manual ingestion steps and enabling reliable large-scale data transformation.
-- Event-driven triggers via S3 + SQS
-- Asynchronous processing for high throughput
-- Scalable for analytics use cases
+### Dockerized ECS Production Data Pipeline | Docker, AWS ECS
 
----
-
-### 🤖 Android Malware Detection System
-> Python · Scikit-learn · SVM · CNN
-
-ML pipeline to classify Android applications as malicious or safe using feature extraction and deep learning.
-- SVM and CNN classifiers
-- Hyperparameter tuning for accuracy improvement
-- End-to-end preprocessing to evaluation pipeline
+• Containerized ETL processing workloads using Docker.
+• Deployed Docker images on AWS ECS for scalable large-scale batch conversion.
+• Automated production deployment workflows for cloud file processing pipelines.
+• Improved throughput by 30–40% using chunk-based execution and optimized memory usage.
 
 ----
 
