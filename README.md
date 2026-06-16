@@ -1,82 +1,80 @@
 # Hi, I'm Rajeswari Sreepathi 👋
 
-**Data Engineer** · Python · PySpark · Apache Kafka · AWS
+## GenAI Engineer | Building Scalable AI Systems for Real-World Applications
 
-![Experience](https://img.shields.io/badge/Experience-2.5%2B%20years-1A7A6E?style=flat-square) ![ETL](https://img.shields.io/badge/ETL%20efficiency%20gain-40%25-1A7A6E?style=flat-square) ![Data](https://img.shields.io/badge/Data%20processed-60%20GB-1A7A6E?style=flat-square) ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Engineer-0F6E56?style=flat-square)
-
----
-
-## About Me
-
-Data Engineer at **KPIT Technologies** building **production-grade Python ETL pipelines** and cloud-native data processing systems for automotive telemetry, CAN signals, and multimodal vehicle datasets.
-
-I design scalable workflows that process **MF4, BLF, AVI, and MP4 data**, transforming raw sensor logs and synchronized video streams into **structured MCAP outputs** for replay, analytics, and downstream ADAS workflows.
-
-I have built **event-driven AWS data pipelines** using **S3, SQS, Lambda, ECS, Glue, Athena, and Redshift**, enabling reliable large-scale batch processing and production-grade cloud deployments.
-
-My work improved ETL pipeline throughput by **30–40%** using multiprocessing, optimized Pandas/NumPy transformations, chunk-based execution, and memory-efficient large-file processing.
-
-I enjoy working at the intersection of **data engineering, cloud orchestration, and automotive data systems**, turning complex raw telemetry and video data into scalable platforms teams can build on.
+> Turning large-scale automotive and multimodal data into scalable, AI-powered systems using LLMs, RAG, and Agentic AI.
 
 ---
 
-## Areas of interest
+## 🚀 About Me
 
-- 🔁 **Real-time data streaming** — designing low-latency pipelines using Kafka and PySpark for continuous data flows
-- ☁️ **Cloud-native data architecture** — building scalable, event-driven systems on AWS
-- 🏗️ **Data lake & warehouse design** — structuring large-scale storage for analytics and downstream consumption
-- ⚙️ **ETL & pipeline automation** — replacing manual workflows with reliable, automated data processing
-- 🤖 **ML pipelines** — integrating machine learning into data workflows for intelligent data processing
-- 🚗 **Automotive & ADAS data** — working with vehicle telemetry and sensor data at scale
+GenAI Engineer at **KPIT Technologies**, focused on building **production-grade AI systems** using Large Language Models, Retrieval-Augmented Generation (RAG), and Agentic AI frameworks.
+
+I work on transforming **automotive telemetry and multimodal data** into intelligent systems that support analysis, automation, and real-time decision workflows.
 
 ---
 
-## Tech stack
+## 🧠 What I Work On
 
-**Languages:** Python
-
-**Data engineering:** PySpark · Apache Kafka · ETL Pipelines · Data Modeling · Data Lakes · Pandas · NumPy
-
-**Cloud (AWS):** S3 · Lambda · ECS · SQS · Glue · Athena · EC2 . Redshift. Dynamodb
-
-**Databases & tools:** PostgreSQL · SQL . Docker · Git · JIRA · Confluence
+- 🤖 LLM-powered applications using RAG and Agentic AI
+- 🧩 Multi-agent systems for workflow automation
+- ⚙️ AI-driven backend systems using FastAPI
+- 🚗 Automotive telemetry and sensor data processing
+- 🧠 Tool-calling AI agents for structured task execution
 
 ---
 
-## Featured projects
+## 💼 Experience
 
-### Python ETL Pipeline for Automotive Data Conversion | Python
+### KPIT Technologies — GenAI Engineer
+*Oct 2023 – Present*
 
-• Built a Python ETL pipeline to process MF4, BLF, AVI, and MP4 datasets.
-• Extracted CAN signals, timestamps, telemetry logs, and video metadata from raw files.
-• Transformed data using Pandas, NumPy, multiprocessing, timestamp alignment, and schema normalization.
-• Loaded processed outputs into MCAP format for replay and analytics systems.
-
-### AWS Cloud ETL Orchestration Pipeline | AWS
-
-• Designed cloud-native ETL orchestration using S3, SQS, Lambda, Glue, Athena, and Redshift.
-• Uploaded raw datasets into S3 and triggered SQS-based asynchronous processing workflows.
-• Used Lambda to validate files, prepare metadata, and trigger downstream ETL execution.
-• Enabled analytics-ready datasets and SQL querying through Athena and Redshift.
-
-### Dockerized ECS Production Data Pipeline | Docker, AWS ECS
-
-• Containerized ETL processing workloads using Docker.
-• Deployed Docker images on AWS ECS for scalable large-scale batch conversion.
-• Automated production deployment workflows for cloud file processing pipelines.
-• Improved throughput by 30–40% using chunk-based execution and optimized memory usage.
-
-----
-
-## Currently learning
-
-- 🌊 **Apache Airflow** — workflow orchestration for complex pipeline scheduling
-- 🏛️ **Data warehousing** — dbt and dimensional modeling patterns
-- 📦 **Delta Lake / Lakehouse architecture** — ACID transactions on data lakes
+- Built production-ready **LLM applications using RAG and Agentic AI**
+- Developed **multi-agent AI systems for automation workflows**
+- Designed AI backend services using **LangChain, LangFlow, FastAPI**
+- Worked on **automotive telemetry pipelines (MF4, BLF, AVI, MP4 → MCAP)**
+- Built systems for **data synchronization, validation, and structured transformation**
+- Improved system performance by **30–40%**
+- Created AI-based visualization workflows using **Foxglove Studio**
+- Developed desktop AI tools using **PyQt**
 
 ---
 
-## Connect
+## 🏗️ Featured Projects
+
+### 🚗 Automotive AI Telemetry Platform
+- Built AI system to process automotive telemetry and sensor data
+- Converted raw multimodal data into MCAP format for AI analysis
+- Implemented timestamp alignment and validation logic
+- Enabled visualization and replay using Foxglove Studio
+
+---
+
+### 🤖 AI Workflow Automation System
+- Built LLM-powered automation system for enterprise workflows
+- Designed tool-calling agents for structured task execution
+- Developed backend orchestration using FastAPI + LangChain
+- Enabled intelligent workflow decision-making using AI agents
+
+---
+
+### 🧠 Agentic AI Assistant
+- Built conversational AI system using RAG architecture
+- Implemented context-aware retrieval using vector-based memory
+- Designed tool-using agents for dynamic responses
+
+---
+
+## 🧰 Tech Stack
+
+**GenAI:** LLMs, RAG, Agentic AI, LangChain, LangFlow, Prompt Engineering  
+**AI Systems:** FastAPI, Tool-calling agents, Multi-agent orchestration  
+**Data Processing (AI-focused):** OpenCV, Pandas, NumPy, Protobuf  
+**Tools:** Git, GitHub, JIRA, Confluence, Foxglove Studio  
+
+---
+
+## 📫 Connect with Me
 
 📞 +91 9390473343
 📧 sreepathirajeswari85@gmail.com
@@ -85,4 +83,6 @@ I enjoy working at the intersection of **data engineering, cloud orchestration, 
 
 ---
 
-*"Data is not just rows and columns — it's the foundation every good decision is built on."*
+> 💡 Building intelligent AI systems that connect real-world data with autonomous intelligence.
+---
+
